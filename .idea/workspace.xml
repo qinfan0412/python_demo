@@ -1,18 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cfaeda0-56c2-40c4-9503-c9a5d5ae4f73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2020 霉运贫穷莫挨老子.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/下线了 88（萌娃罗熙）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/为了你妈不要再说了（情深深雨蒙蒙何书桓表情包）.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/今天也没么干劲，明天开始努力吧.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/你到底要不要iphone 11嘛蜜.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/你的晚安我不等了，我累了自己先睡了.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/你说你是公主，哪个 KTV 却不告诉我（熊猫头表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/你马biss.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/动耳朵GIF.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/卧草牛啤.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/听到八卦的小耳朵.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/哇！这也太狂了吧！.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/哎呀，真让人觉得羞羞啦.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/嗯！每天都爱你多一点，先给自己颁一个进步奖.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/噗呲 放屁（沙雕羊驼动图表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/大家吃饭没有没有就看我吃（熊猫头表情包）.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/好不容易来一趟再待会儿（假期 卑微的我）.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/好啦好啦 别气啦 亲你一下.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/开始等过年.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/开机，带薪撩妹（熊猫头表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/很生气也不敢胡闹，怕自己不够重要（流泪熊猫头表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我在哭.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我尼玛傻了都.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我是废物（熊猫头表情包）.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我爱你（草莓果酱oxGIF 动图表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我的人生只要这样躺着混日子就很幸福了.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/我要可爱死你（草莓果酱ox表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/把幸福送给你.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/昨天不是刚起过床吗怎么今天又要起床(熊猫头拍桌子表情包).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/来群里转转（熊猫头旋转 GIF 动图）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/欢迎仪式已结束，您一共消费4750元，可以选择爆照来报销哦（熊猫头表情包）.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/海绵宝宝手动点赞 GIF 动图.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/烦恼霉运滚开莫挨老子.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/熊猫头喜迎新春 给点？.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/狗都觉得好笑我说2020年要脱单(猫和老鼠杰瑞鼠表情包).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/看见你就烦（草莓果酱ox白眼 GIF 动图表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/突然好想去放牛没有生活压力没有爱恨情仇没有江湖套路。只关心我的牛在不在以我的智商只放一头多了我也数不过来它吃草我睡觉我趴在牛身上睡觉牛丢了我也就丢了，省心！.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/精神小伙不请自来！杰尼龟戴墨镜动图表情包.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/织毛线发送爱心 GIF 动图.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/老子一棒打死你.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/草莓果酱ox动图表情包.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/这我真的可以 please（龇牙小黄脸表情包）.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/锁屏 带薪拉屎.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/马上就到2020年了，新的一年祝大家万事如意，顺便问一下有没有好心人给我介绍对象（熊猫头表情包）.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/？？？问号表情.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WVPfZya926znDMWuv7Q3isRUyw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cfaeda0-56c2-40c4-9503-c9a5d5ae4f73" name="Default Changelist" comment="" />
+      <created>1579231892749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579231892749</updated>
+      <workItem from="1579231894462" duration="242000" />
+    </task>
+    <task id="LOCAL-00001" summary="一些脚本">
+      <created>1579231954014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579231954014</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="一些脚本" />
+    <option name="LAST_COMMIT_MESSAGE" value="一些脚本" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579231926084">
+    <state x="634" y="111" key="CommitChangelistDialog2" timestamp="1579231953472">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579231926084" />
+    <state x="634" y="111" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1579231953472" />
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579232127660">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579232127660" />
   </component>
 </project>
