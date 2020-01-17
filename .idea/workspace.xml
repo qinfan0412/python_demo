@@ -2,64 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cfaeda0-56c2-40c4-9503-c9a5d5ae4f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_求字符串每个字符的次数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_KNN算法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2020 霉运贫穷莫挨老子.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/下线了 88（萌娃罗熙）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/为了你妈不要再说了（情深深雨蒙蒙何书桓表情包）.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/今天也没么干劲，明天开始努力吧.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/你到底要不要iphone 11嘛蜜.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/你的晚安我不等了，我累了自己先睡了.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/你说你是公主，哪个 KTV 却不告诉我（熊猫头表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/你马biss.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/动耳朵GIF.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/卧草牛啤.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/听到八卦的小耳朵.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/哇！这也太狂了吧！.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/哎呀，真让人觉得羞羞啦.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/嗯！每天都爱你多一点，先给自己颁一个进步奖.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/噗呲 放屁（沙雕羊驼动图表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/大家吃饭没有没有就看我吃（熊猫头表情包）.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/好不容易来一趟再待会儿（假期 卑微的我）.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/好啦好啦 别气啦 亲你一下.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/开始等过年.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/开机，带薪撩妹（熊猫头表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/很生气也不敢胡闹，怕自己不够重要（流泪熊猫头表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/我在哭.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/我尼玛傻了都.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/我是废物（熊猫头表情包）.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/我爱你（草莓果酱oxGIF 动图表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/我的人生只要这样躺着混日子就很幸福了.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/我要可爱死你（草莓果酱ox表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/把幸福送给你.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/昨天不是刚起过床吗怎么今天又要起床(熊猫头拍桌子表情包).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/来群里转转（熊猫头旋转 GIF 动图）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/欢迎仪式已结束，您一共消费4750元，可以选择爆照来报销哦（熊猫头表情包）.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/海绵宝宝手动点赞 GIF 动图.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/烦恼霉运滚开莫挨老子.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/熊猫头喜迎新春 给点？.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/狗都觉得好笑我说2020年要脱单(猫和老鼠杰瑞鼠表情包).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/看见你就烦（草莓果酱ox白眼 GIF 动图表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/突然好想去放牛没有生活压力没有爱恨情仇没有江湖套路。只关心我的牛在不在以我的智商只放一头多了我也数不过来它吃草我睡觉我趴在牛身上睡觉牛丢了我也就丢了，省心！.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/精神小伙不请自来！杰尼龟戴墨镜动图表情包.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/织毛线发送爱心 GIF 动图.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/老子一棒打死你.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/草莓果酱ox动图表情包.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/这我真的可以 please（龇牙小黄脸表情包）.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/锁屏 带薪拉屎.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/马上就到2020年了，新的一年祝大家万事如意，顺便问一下有没有好心人给我介绍对象（熊猫头表情包）.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/？？？问号表情.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chrome测试.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/发送邮件.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_发送邮件.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/图片搜索下载.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_图片搜索下载.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/字符加密方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_字符加密方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新闻网站通用爬虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_新闻网站通用爬虫.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/时间处理函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_时间处理函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/表情包下载器.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_表情包下载器.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WVPfZya926znDMWuv7Q3isRUyw" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -70,6 +42,58 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.7_求字符串每个字符的次数">
+    <configuration name="7_求字符串每个字符的次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_求字符串每个字符的次数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8_KNN算法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8_KNN算法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.7_求字符串每个字符的次数" />
+        <item itemvalue="Python.8_KNN算法" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -93,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579231892749</updated>
-      <workItem from="1579231894462" duration="242000" />
+      <workItem from="1579231894462" duration="2986000" />
     </task>
     <task id="LOCAL-00001" summary="一些脚本">
       <created>1579231954014</created>
@@ -102,7 +126,21 @@
       <option name="project" value="LOCAL" />
       <updated>1579231954014</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="一些脚本">
+      <created>1579232158328</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579232158328</updated>
+    </task>
+    <task id="LOCAL-00003" summary="一些脚本">
+      <created>1579232188194</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579232188194</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,13 +151,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="一些脚本" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="111" key="CommitChangelistDialog2" timestamp="1579232177165">
+    <state x="404" y="111" key="CommitChangelistDialog2" timestamp="1579232187977">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="404" y="111" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1579232177165" />
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579232171184">
+    <state x="404" y="111" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1579232187977" />
+    <state width="1623" height="250" key="GridCell.Tab.0.bottom" timestamp="1579243042048">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579232171184" />
+    <state width="1623" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579243042048" />
+    <state width="1623" height="250" key="GridCell.Tab.0.center" timestamp="1579243042047">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1623" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579243042047" />
+    <state width="1623" height="250" key="GridCell.Tab.0.left" timestamp="1579243042047">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1623" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579243042047" />
+    <state width="1623" height="250" key="GridCell.Tab.0.right" timestamp="1579243042048">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1623" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579243042048" />
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579241573619">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579241573619" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_demo$chrome.coverage" NAME="KNN算法 Coverage Results" MODIFIED="1579242037946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_demo$.coverage" NAME="字典求字符串出现最多次数 Coverage Results" MODIFIED="1579243042026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
