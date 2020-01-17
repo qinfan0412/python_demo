@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cfaeda0-56c2-40c4-9503-c9a5d5ae4f73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7_求字符串每个字符的次数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_KNN算法.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chrome测试.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/发送邮件.py" beforeDir="false" afterPath="$PROJECT_DIR$/4_发送邮件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/图片搜索下载.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_图片搜索下载.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/字符加密方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/5_字符加密方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/新闻网站通用爬虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/3_新闻网站通用爬虫.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/时间处理函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_时间处理函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/表情包下载器.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_表情包下载器.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_求字符串每个字符的次数.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_求字符串每个字符的次数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager" selected="Python.7_求字符串每个字符的次数">
     <configuration name="7_求字符串每个字符的次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -117,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579231892749</updated>
-      <workItem from="1579231894462" duration="2986000" />
+      <workItem from="1579231894462" duration="3873000" />
     </task>
     <task id="LOCAL-00001" summary="一些脚本">
       <created>1579231954014</created>
@@ -140,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579232188194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="一些脚本">
+      <created>1579243337642</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579243337642</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,33 +151,49 @@
     <option name="LAST_COMMIT_MESSAGE" value="一些脚本" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="111" key="CommitChangelistDialog2" timestamp="1579232187977">
+    <state x="404" y="111" key="CommitChangelistDialog2" timestamp="1579243337220">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="404" y="111" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1579232187977" />
-    <state width="1623" height="250" key="GridCell.Tab.0.bottom" timestamp="1579243042048">
+    <state x="404" y="111" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1579243337220" />
+    <state width="1623" height="250" key="GridCell.Tab.0.bottom" timestamp="1579244272319">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579243042048" />
-    <state width="1623" height="250" key="GridCell.Tab.0.center" timestamp="1579243042047">
+    <state width="1623" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579244272319" />
+    <state width="1623" height="250" key="GridCell.Tab.0.center" timestamp="1579244272318">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579243042047" />
-    <state width="1623" height="250" key="GridCell.Tab.0.left" timestamp="1579243042047">
+    <state width="1623" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579244272318" />
+    <state width="1623" height="250" key="GridCell.Tab.0.left" timestamp="1579244272317">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579243042047" />
-    <state width="1623" height="250" key="GridCell.Tab.0.right" timestamp="1579243042048">
+    <state width="1623" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579244272317" />
+    <state width="1623" height="250" key="GridCell.Tab.0.right" timestamp="1579244272319">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579243042048" />
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579241573619">
+    <state width="1623" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579244272319" />
+    <state width="1623" height="309" key="GridCell.Tab.1.bottom" timestamp="1579243949086">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579241573619" />
+    <state width="1623" height="309" key="GridCell.Tab.1.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579243949086" />
+    <state width="1623" height="309" key="GridCell.Tab.1.center" timestamp="1579243949085">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1623" height="309" key="GridCell.Tab.1.center/0.23.1920.977@0.23.1920.977" timestamp="1579243949085" />
+    <state width="1623" height="309" key="GridCell.Tab.1.left" timestamp="1579243949085">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1623" height="309" key="GridCell.Tab.1.left/0.23.1920.977@0.23.1920.977" timestamp="1579243949085" />
+    <state width="1623" height="309" key="GridCell.Tab.1.right" timestamp="1579243949086">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state width="1623" height="309" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1579243949086" />
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579244316124">
+      <screen x="0" y="23" width="1920" height="977" />
+    </state>
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579244316124" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_demo$chrome.coverage" NAME="KNN算法 Coverage Results" MODIFIED="1579242037946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_demo$.coverage" NAME="字典求字符串出现最多次数 Coverage Results" MODIFIED="1579243042026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_demo$.coverage" NAME="7_求字符串每个字符的次数 Coverage Results" MODIFIED="1579244272306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
