@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cfaeda0-56c2-40c4-9503-c9a5d5ae4f73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/9_樱花树.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_求字符串每个字符的次数.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_求字符串每个字符的次数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.7_求字符串每个字符的次数">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.9_樱花树">
+    <configuration name="3_新闻网站通用爬虫" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_新闻网站通用爬虫.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="7_求字符串每个字符的次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,8 +108,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="9_樱花树" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_樱花树.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9_笔趣阁scrapy版" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_demo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9_笔趣阁scrapy版.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9_樱花树" />
+        <item itemvalue="Python.3_新闻网站通用爬虫" />
+        <item itemvalue="Python.9_笔趣阁scrapy版" />
         <item itemvalue="Python.7_求字符串每个字符的次数" />
         <item itemvalue="Python.8_KNN算法" />
       </list>
@@ -110,7 +184,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579231892749</updated>
-      <workItem from="1579231894462" duration="3873000" />
+      <workItem from="1579231894462" duration="9847000" />
+      <workItem from="1579332589508" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="一些脚本">
       <created>1579231954014</created>
@@ -140,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579243337642</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="一些脚本">
+      <created>1579244319826</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579244319826</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,26 +233,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="一些脚本" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="404" y="111" key="CommitChangelistDialog2" timestamp="1579243337220">
+    <state x="404" y="111" key="CommitChangelistDialog2" timestamp="1579335065504">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="404" y="111" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1579243337220" />
-    <state width="1623" height="250" key="GridCell.Tab.0.bottom" timestamp="1579244272319">
+    <state x="404" y="111" key="CommitChangelistDialog2/0.23.1920.977@0.23.1920.977" timestamp="1579335065504" />
+    <state width="1623" height="325" key="GridCell.Tab.0.bottom" timestamp="1579330426820">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579244272319" />
-    <state width="1623" height="250" key="GridCell.Tab.0.center" timestamp="1579244272318">
+    <state width="1623" height="325" key="GridCell.Tab.0.bottom/0.23.1920.977@0.23.1920.977" timestamp="1579330426820" />
+    <state width="1623" height="325" key="GridCell.Tab.0.center" timestamp="1579330426819">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579244272318" />
-    <state width="1623" height="250" key="GridCell.Tab.0.left" timestamp="1579244272317">
+    <state width="1623" height="325" key="GridCell.Tab.0.center/0.23.1920.977@0.23.1920.977" timestamp="1579330426819" />
+    <state width="1623" height="325" key="GridCell.Tab.0.left" timestamp="1579330426819">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579244272317" />
-    <state width="1623" height="250" key="GridCell.Tab.0.right" timestamp="1579244272319">
+    <state width="1623" height="325" key="GridCell.Tab.0.left/0.23.1920.977@0.23.1920.977" timestamp="1579330426819" />
+    <state width="1623" height="325" key="GridCell.Tab.0.right" timestamp="1579330426820">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state width="1623" height="250" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579244272319" />
+    <state width="1623" height="325" key="GridCell.Tab.0.right/0.23.1920.977@0.23.1920.977" timestamp="1579330426820" />
     <state width="1623" height="309" key="GridCell.Tab.1.bottom" timestamp="1579243949086">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
@@ -187,13 +269,16 @@
       <screen x="0" y="23" width="1920" height="977" />
     </state>
     <state width="1623" height="309" key="GridCell.Tab.1.right/0.23.1920.977@0.23.1920.977" timestamp="1579243949086" />
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579244316124">
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2" timestamp="1579335069102">
       <screen x="0" y="23" width="1920" height="977" />
     </state>
-    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579244316124" />
+    <state x="640" y="250" key="Vcs.Push.Dialog.v2/0.23.1920.977@0.23.1920.977" timestamp="1579335069102" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_demo$chrome.coverage" NAME="KNN算法 Coverage Results" MODIFIED="1579242037946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_demo$9_test.coverage" NAME="9_test Coverage Results" MODIFIED="1579314953772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_demo$.coverage" NAME="7_求字符串每个字符的次数 Coverage Results" MODIFIED="1579244272306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_demo$3_.coverage" NAME="3_新闻网站通用爬虫 Coverage Results" MODIFIED="1579325407448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_demo$test.coverage" NAME="test Coverage Results" MODIFIED="1579330426806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
